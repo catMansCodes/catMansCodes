@@ -15,36 +15,36 @@ I specialize in designing and developing **high-performance backend systems** an
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Highlights
 
-**📫 Technosouls —Sr. Full Stack Developer**
-07/2024 - PRESENT
-- Built enterprise web applications using Spring Boot & Angular
-- Working on Micro-frontend Dashboard project
-
----
-**🏦 Bank of America — Software Engineer II B**  
-*May 2021 – 07/2024*  
-- Developing scalable microservices using Spring Boot  
-- Designing and integrating REST APIs across systems  
-- Involved in system design (HLD & LLD)  
-- Driving code quality via Sonar, peer reviews, and best practices  
-- Working closely with stakeholders (PO, PM, Business Teams)
-
----
-
-**💻 Techforce Global — Software Engineer**  
-*Jun 2017 – May 2021*  
-- Designed backend systems and database schemas  
-- Implemented CI/CD pipelines and deployment workflows
-- Payment gateway integrations
-
+- Designed and developed **scalable microservices** using Spring Boot, enabling robust and maintainable backend systems  
+- Built **enterprise-grade full-stack applications** using Spring Boot and Angular  
+- Designed and integrated **REST APIs** across multiple systems for seamless communication  
+- Contributed to **system design (HLD & LLD)** for scalable and high-performance architectures  
+- Improved code quality through **SonarQube, peer reviews, and best engineering practices**  
+- Collaborated with **cross-functional stakeholders**, including Product Owners, PMs, and Business Teams  
+- Designed **database schemas and backend architectures** for performance and scalability  
+- Implemented **CI/CD pipelines** to streamline build, test, and deployment workflows  
+- Integrated **payment gateway solutions** for secure and reliable transactions  
+- Delivered **custom client solutions** as a full-stack developer across multiple domains  
+- Experienced with the application decommission process
+- Coordination with Various bank stakeholders & clients
+- Production release support, pre/post production release coordination with multiple teams, managing documentation & business approvals for the same.
+  
 ---
 
-**🌐 Freelancer — Software Engineer**  
-*May 2016 – May 2017*  
-- Delivered custom web applications for clients  
-- Worked across frontend and backend technologies  
+## ⚙️ Engineering Expertise
+
+- Strong experience with **Spring ecosystem** (Spring Boot, Spring MVC, Spring Core)  
+- Expertise in **Microservices architecture and API integrations**  
+- Created API documentation using **Swagger and Redoc**  
+- Developed and maintained **unit and integration tests** using JUnit and Mockito  
+- Experience building web applications using **JSP, JDBC, Thymeleaf, Bootstrap, and JavaScript**  
+- Ensured code quality and maintainability using **SonarQube and code reviews**  
+- Proficient in **SDLC and Agile methodologies**, covering design to deployment (CI/CD)  
+- Experience in **database design, optimization, and defect analysis**  
+- Worked on **application maintenance, production releases, and vulnerability resolution**  
+- Led and participated in **technical interviews and hiring processes**  
 
 ---
 
@@ -64,7 +64,7 @@ I specialize in designing and developing **high-performance backend systems** an
 ---
 
 ### 🖥️ Frontend
-- Angular
+- Angular 19
 - TypeScript, JavaScript (ES6+)
 - HTML5, CSS3, Bootstrap 5
 - Micro Frontend Architecture
