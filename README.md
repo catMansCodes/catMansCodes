@@ -2,6 +2,7 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen)
 ![Role](https://img.shields.io/badge/Role-Senior%20Java%20Full%20Stack%20Developer-blue)
+![Experience](https://img.shields.io/badge/Experience-9%2B%20Years-orange)
 
 > 🚀 **Actively looking for new opportunities as a Senior Java Full Stack Developer**  
 > 💼 Immediate Joiner | Open to Work | Remote | Part Time | Full Time
