@@ -60,7 +60,7 @@ I specialize in designing and developing **high-performance backend systems** an
 - Swagger Documentation
 - Docker, CI/CD (Jenkins)
 - AWS (Basic)
-
+- Spring AI (Basic)
 ---
 
 ### 🖥️ Frontend
@@ -68,6 +68,7 @@ I specialize in designing and developing **high-performance backend systems** an
 - TypeScript, JavaScript (ES6+)
 - HTML5, CSS3, Bootstrap 5
 - Micro Frontend Architecture
+- React JS (Basic)
 
 ---
 
