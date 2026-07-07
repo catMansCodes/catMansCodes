@@ -56,9 +56,10 @@ I specialize in designing and developing **high-performance backend systems** an
 - REST APIs, Microservices Architecture
 - Spring Security, AOP
 - JPA & Hibernate
-- Spring Test
+- Spring Test - Junit & Mockito
 - Swagger Documentation
 - Docker, CI/CD (Jenkins)
+- Kafka & Rabbimq (Basic)
 - AWS (Basic)
 - Spring AI (Basic)
 ---
