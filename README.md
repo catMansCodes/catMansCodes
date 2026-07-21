@@ -9,7 +9,7 @@
 
 ### 🚀 Senior Java Full Stack Developer | 9+ Years Experience
 
-Currently looking for an opportunity on **Spring Boot, Microservices, and Angular**.
+Currently looking for an opportunity on **Spring Boot, Microservices, Kafka, MySQL, and Angular**.
 
 I specialize in designing and developing **high-performance backend systems** and **full-stack applications**, with a strong focus on clean architecture and real-world problem solving.
 
